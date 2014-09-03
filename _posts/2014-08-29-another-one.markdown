@@ -7,4 +7,4 @@ categories: jekyll update
 
 Hopefully this should work when I hit commit...
 
-## H2 Sub heading
+## Sub heading
