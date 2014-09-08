@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "WordPress update"
-date:   2014-09-05 10:35:27
+title:  "Chrome horrors"
+date:   2014-09-08 14:33:19
 categories: jekyll update
 ---
 
