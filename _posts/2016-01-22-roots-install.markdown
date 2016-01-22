@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Root down with Roots."
+title:  "Root down with Roots"
 date:   2016-01-22 14:41:10
 categories: jekyll update
 ---
